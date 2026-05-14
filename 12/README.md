@@ -1,3 +1,0 @@
-ここからvscodeでgitを実習
-
-これはreadme.md
